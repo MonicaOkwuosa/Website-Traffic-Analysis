@@ -1,5 +1,5 @@
 # Website-Traffic-Analysis
-As a Data Analyst, deriving insights is one thing while delivering reports generated is another. This analysis is reported in order to give systematic breakdown of the tasks carried out, steps taken and actions recommended to be taken in order to achieve website effectiveness.
+As a Data Analyst, deriving insights is one thing while delivering reports generated is another. This analysis is reported in order to give systematic breakdown of the tasks carried out using Microsoft Excel, steps taken and actions recommended to be taken in order to achieve website effectiveness.
 ## 1. Introduction
 This review focuses on the initial analysis of a website traffic dataset to uncover key user   patterns and marketing insight. The dataset includes key metrics such as page views, session duration, conversion rate, bounce rate, time on page, previous visits and traffic sources. By examining these metrics, I aim to identify trends, patterns and anomalies in user engagement, offer insights into potential areas for improvement, factors influencing conversions and overall website performance. The data was explored using Excel for descriptive statistics and visualization.
 
@@ -46,7 +46,7 @@ Initial Insights at first view:
 4.	Majority of the pages viewed have high bounce rates.
  ![image](https://github.com/user-attachments/assets/981bbb17-72cf-40da-bd15-99d3f7b4d58f)
 
-## 5. Conclusions
+## 5. Recommendations and Conclusions
 1.	High conversions from page views with low bounce rate indicates that they perform well and engage visitors and therefore the contents in these pages should be elaborated and copied into other pages.
 2.	Organic traffic source should be upscaled followed by paid sources.
 3.	Pages with high bounce rate should be investigated to check if they align with users’ expectations.
